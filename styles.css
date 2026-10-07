@@ -5,4 +5,5 @@
 h1{font-style:italic}.tile{border:0;border-bottom:2px solid #a04732;padding:22px 0;background:transparent}
 .grid{gap:32px}section+section{margin-top:78px}
 .project-type{font-size:12px;text-transform:uppercase;letter-spacing:1.5px}
+h2{max-width:720px}.brand{border-bottom:3px solid var(--accent)}
 /* Editorial cards share the global spacing scale. */
