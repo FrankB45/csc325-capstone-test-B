@@ -7,4 +7,4 @@ Serve this directory with `python3 -m http.server 8000` and open http://localhos
 The supported static sites use only HTML, CSS, plain JavaScript, and original local SVG artwork.
 No external requests, fonts, accounts, or secrets are needed.
 
-
+All clients and project names are fictional. The three portfolio disciplines support filter testing.
