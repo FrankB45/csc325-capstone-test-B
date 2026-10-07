@@ -3,3 +3,4 @@
 :root{--paper:#f7f5ef;--ink:#283c35;--accent:#355c4c}
 :root{--accent:#a04732;--paper:#faf0e7}.brand{letter-spacing:-1.5px}
 h1{font-style:italic}.tile{border:0;border-bottom:2px solid #a04732;padding:22px 0;background:transparent}
+/* Editorial cards share the global spacing scale. */
