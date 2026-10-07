@@ -35,4 +35,4 @@ section + section { margin-top: 50px; }
 footer { display: flex; flex-wrap: wrap; justify-content: space-between; gap: 20px; padding: 28px 0; border-top: 3px solid #482e42; font-size: 13px; }
 a:focus-visible { outline: 3px solid #8f3555; outline-offset: 6px; }
 .brand{text-transform:uppercase;letter-spacing:3px}.project-type{text-transform:uppercase;letter-spacing:2px;font-weight:700}.hero h1{font-family:Arial,sans-serif;font-weight:800}
-main{max-width:960px}.hero{flex-direction:column;text-align:center}.hero > div{flex:0 1 auto;width:100%}.hero h1,.hero p{margin-left:auto;margin-right:auto}.hero img{width:100%;flex:0 1 auto;height:310px}
+.hero{background:#fffaf0;color:#25392f;border-bottom:18px solid #25392f}.hero h1{font-size:64px}.tile{border-top:12px solid #25392f}
